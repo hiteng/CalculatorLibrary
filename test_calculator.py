@@ -3,7 +3,7 @@
 Unit tests for the calculator library
 """
 import unittest
-from calculator import add, subtract
+from calculator import add, subtract, mul
 
 
 class TestCalculator(unittest.TestCase):
