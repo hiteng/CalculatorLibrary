@@ -1,6 +1,7 @@
 
 """
-Unit tests for the calculator library
+Unit test for calculator library with
+addition, subtraction and multiplication.
 """
 
 import calculator
